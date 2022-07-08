@@ -6,4 +6,4 @@ I'm not a "real" programmer per se, as most of my work focuses on architecture d
 
 The languages I'm most comfortable in are C/C++, Python, Java, Kotlin, and Matlab. I'm also familiar with HDLs like SystemVerilog, low level programming in Assembly, and even good ol' Minecraft redstone. 
 
-I design a lot of PCBs, but unfortunately most of them are done in Altium. I've done high speed, high voltage, and high density designs as well as boring old 2-layer boards just to play around with.
+I design a lot of PCBs, but unfortunately most of them are done in Altium so I can't show them off here. I've done high speed, high voltage, and high density designs as well as boring old 2-layer boards just to play around with.
