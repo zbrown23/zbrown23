@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Zach Brown, an Electrical Engineering Student at Case Western Reserve University. I'm currently a Print Process Engineering Intern at [Formlabs](https://formlabs.com), where I help build really cool 3D printers with really cool people.
+I'm Zach Brown, an Electrical Engineering Student at Case Western Reserve University. I was most recently employed as a Print Process Engineering Intern at [Formlabs](https://formlabs.com), where I helped build really cool 3D printers with really cool people.
 
 I'm not a "real" programmer per se, as most of my work focuses on architecture design, algorithms design and implementation, and control theory. I build anything and everything, from [rocket engines](https://www.youtube.com/watch?v=cRwU7fVsK0E) to [racecars](https://www.youtube.com/channel/UCbYI9bH2k-ggW2idGL_oSUA).
 
