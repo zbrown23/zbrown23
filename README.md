@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Zach Brown, a Starship Avionics Engineer at SpaceX.
+I'm Zach Brown, a Starship Avionics Engineer at SpaceX, where I design hardware for the largest rocket ever built.
 
 Before that, I interned at [Formlabs](https://formlabs.com), where I built electrical systems and firmware for next-gen SLA and SLS 3D printers, as well as [Asensus Surgical](https://asensus.com/), where I developed power systems and instrumentation for surgical robots.
 
